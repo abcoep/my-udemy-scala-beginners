@@ -1,6 +1,6 @@
-## My repo for the [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/rock-the-jvm-scala-for-beginners) Udemy course
+## My repo for the Scala beginners course on Udemy
 
-This repository contains my hands on code and exercise solutions wrote during the course.
+This repository contains my hands on code and exercise solutions for the course [Scala & Functional Programming Essentials | Rock the JVM](https://www.udemy.com/rock-the-jvm-scala-for-beginners) on Udemy.
 
 License
 =======
